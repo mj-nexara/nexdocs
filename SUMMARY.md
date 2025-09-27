@@ -1,20 +1,4 @@
-\# Welcome to Nexdocs
-
-
-
-Here’s a professional, inheritable `SUMMARY.md` scaffold tailored for your constitutional archive, MJ. It’s modular, trauma-informed, and ready for expansion by future guardians:
-
-
-
----
-
-
-
-\## 📘 `SUMMARY.md`
-
-
-
-\### Summary
+\# Summary
 
 
 
@@ -64,25 +48,5 @@ Here’s a professional, inheritable `SUMMARY.md` scaffold tailored for your con
 
 &nbsp; \* \[Accessibility Commitments](legacy/accessibility.md)
 
-```
 
-
-
----
-
-
-
-\## 🧠 Notes for Expansion
-
-
-
-\- Each link corresponds to a Markdown file you can scaffold inside your GitBook folder.
-
-\- You can modularize further with folders like `systems/`, `docs/`, `archive/`, etc.
-
-\- This structure honors your vision: every technical act as a constitutional ritual.
-
-
-
-Would you like help scaffolding these Markdown files with preambles and section headers, or generating a PowerShell script that auto-updates `SUMMARY.md` based on folder structure?
 
