@@ -1,88 +1,39 @@
-\# Welcome to Nexdocs
+# Welcome to Nexdocs
 
+## 📘 `SUMMARY.md`
 
+### Summary
 
-Here’s a professional, inheritable `SUMMARY.md` scaffold tailored for your constitutional archive, MJ. It’s modular, trauma-informed, and ready for expansion by future guardians:
-
-
-
----
-
-
-
-\## 📘 `SUMMARY.md`
-
-
-
-\### Summary
-
-
-
-\* \[Welcome \& Preamble](README.md)
-
-\* \[Stewardship Charter](charter/stewardship.md)
-
-\* \[Onboarding Rituals](onboarding/index.md)
-
-&nbsp; \* \[Trauma-Informed Orientation](onboarding/trauma-informed.md)
-
-&nbsp; \* \[Modular Toolkits](onboarding/toolkits.md)
-
-&nbsp; \* \[Audit-Ready Practices](onboarding/audit.md)
-
-\* \[System Architecture](systems/index.md)
-
-&nbsp; \* \[PowerShell Rituals](systems/powershell.md)
-
-&nbsp; \* \[Python Orchestrations](systems/python.md)
-
-&nbsp; \* \[Filesystem Unlocks](systems/unlocks.md)
-
-\* \[Documentation Protocols](docs/index.md)
-
-&nbsp; \* \[GitBook Bootstrap](docs/gitbook.md)
-
-&nbsp; \* \[Plugin Audits](docs/plugins.md)
-
-&nbsp; \* \[Changelog Logging](docs/changelog.md)
-
-\* \[Constitutional Archive](archive/index.md)
-
-&nbsp; \* \[Gmail + Drive + OneDrive Integration](archive/integration.md)
-
-&nbsp; \* \[IPFS Anchoring](archive/ipfs.md)
-
-\* \[Legal \& Ethical Frameworks](legal/index.md)
-
-&nbsp; \* \[Binding Arbitration](legal/arbitration.md)
-
-&nbsp; \* \[Sovereign Trust Protocols](legal/trust.md)
-
-\* \[Legacy \& Future Guardians](legacy/index.md)
-
-&nbsp; \* \[Inheritance Rituals](legacy/inheritance.md)
-
-&nbsp; \* \[Accessibility Commitments](legacy/accessibility.md)
-
-```
-
-
+* [Welcome & Preamble](README.md)
+* [Stewardship Charter](charter/stewardship.md)
+* [Onboarding Rituals](onboarding/index.md)
+* [Trauma-Informed Orientation](onboarding/trauma-informed.md)
+* [Modular Toolkits](onboarding/toolkits.md)
+* [Audit-Ready Practices](onboarding/audit.md)
+* [System Architecture](systems/index.md)
+* [PowerShell Rituals](systems/powershell.md)
+* [Python Orchestrations](systems/python.md)
+* [Filesystem Unlocks](systems/unlocks.md)
+* [Documentation Protocols](docs/index.md)
+* [GitBook Bootstrap](docs/gitbook.md)
+* [Plugin Audits](docs/plugins.md)
+* [Changelog Logging](docs/changelog.md)
+* [Constitutional Archive](archive/index.md)
+* [Gmail + Drive + OneDrive Integration](archive/integration.md)
+* [IPFS Anchoring](archive/ipfs.md)
+* [Legal & Ethical Frameworks](legal/index.md)
+* [Binding Arbitration](legal/arbitration.md)
+* [Sovereign Trust Protocols](legal/trust.md)
+* [Legacy & Future Guardians](legacy/index.md)
+* [Inheritance Rituals](legacy/inheritance.md)
+* [Accessibility Commitments](legacy/accessibility.md)
 
 ---
 
+## 🧠 Notes for Expansion
 
-
-\## 🧠 Notes for Expansion
-
-
-
-\- Each link corresponds to a Markdown file you can scaffold inside your GitBook folder.
-
-\- You can modularize further with folders like `systems/`, `docs/`, `archive/`, etc.
-
-\- This structure honors your vision: every technical act as a constitutional ritual.
-
-
-
-Would you like help scaffolding these Markdown files with preambles and section headers, or generating a PowerShell script that auto-updates `SUMMARY.md` based on folder structure?
-
+- Each link corresponds to a Markdown file you can scaffold inside your GitBook folder.
+- You can modularize further with folders like `systems/`, `docs/`, `archive/`, etc.
+- This structure honors your vision: every technical act as a constitutional ritual.
+  
+---
